@@ -1,0 +1,51 @@
+Order_ID,Customer_Name,Product,Total_Amount,Order_Date
+1001,Kevin Bacon,Mechanical Keyboard,263.42,2026-03-04
+1002,Charlie Brown,Mechanical Keyboard,220.6,2026-04-19
+1003,Alice Smith,Mechanical Keyboard,185.88,2026-06-04
+1004,Ian Malcolm,HD Monitor 27,777.7,2026-04-25
+1005,Evan Wright,Wireless Mouse,497.76,2026-03-29
+1006,Charlie Brown,HD Monitor 27,147.72,2026-04-08
+1007,Fiona Gallagher,Noise Canceling Headphones,518.05,2026-01-12
+1008,Ian Malcolm,Mechanical Keyboard,165.6,2026-03-17
+1009,Oscar Martinez,Noise Canceling Headphones,397.1,2026-01-18
+1010,Kevin Bacon,HD Monitor 27,1035.15,2026-08-07
+1011,Nina Williams,Mechanical Keyboard,432.48,2026-06-12
+1012,Charlie Brown,Noise Canceling Headphones,255.54,2026-03-10
+1013,Julia Roberts,USB-C Hub,1296.3,2026-02-11
+1014,George Clark,Ergonomic Chair,442.85,2026-03-25
+1015,Diana Prince,Wireless Mouse,448.17,2026-01-17
+1016,Oscar Martinez,External SSD 1TB,258.69,2026-05-08
+1017,Oscar Martinez,Webcam 1080p,207.46,2026-03-05
+1018,Ian Malcolm,Ergonomic Chair,792.65,2026-05-30
+1019,Fiona Gallagher,HD Monitor 27,371.38,2026-01-24
+1020,Nina Williams,Mechanical Keyboard,450.38,2026-07-22
+1021,Julia Roberts,Mechanical Keyboard,571.36,2026-04-30
+1022,Evan Wright,Desk Pad,242.89,2026-01-30
+1023,Michael Scott,Ergonomic Chair,157.11,2026-04-22
+1024,Hannah Abbott,Wireless Mouse,1021.74,2026-07-15
+1025,Ian Malcolm,Mechanical Keyboard,890.88,2026-05-10
+1026,Diana Prince,USB-C Hub,811.32,2026-05-19
+1027,Oscar Martinez,Wireless Mouse,617.95,2026-01-05
+1028,Oscar Martinez,Noise Canceling Headphones,285.66,2026-03-03
+1029,Bob Jones,Mechanical Keyboard,1153.48,2026-07-14
+1030,Michael Scott,USB-C Hub,472.04,2026-05-21
+1031,Evan Wright,Desk Pad,783.75,2026-02-24
+1032,Michael Scott,HD Monitor 27,445.98,2026-06-21
+1033,Hannah Abbott,Desk Pad,222.16,2026-02-27
+1034,Fiona Gallagher,Wireless Mouse,1002.8,2026-05-31
+1035,Alice Smith,Mechanical Keyboard,91.7,2026-01-09
+1036,Bob Jones,Desk Pad,216.58,2026-05-05
+1037,Ian Malcolm,USB-C Hub,1040.15,2026-03-04
+1038,Michael Scott,Laptop Stand,93.2,2026-06-18
+1039,Fiona Gallagher,Laptop Stand,685.8,2026-07-06
+1040,Kevin Bacon,Mechanical Keyboard,149.88,2026-03-28
+1041,Diana Prince,HD Monitor 27,389.32,2026-02-05
+1042,Charlie Brown,Ergonomic Chair,394.76,2026-01-20
+1043,Michael Scott,Desk Pad,31.95,2026-05-19
+1044,Bob Jones,HD Monitor 27,302.3,2026-05-04
+1045,Nina Williams,Laptop Stand,70.15,2026-01-01
+1046,Evan Wright,Webcam 1080p,470.13,2026-07-07
+1047,Kevin Bacon,Webcam 1080p,157.24,2026-02-25
+1048,Julia Roberts,Desk Pad,265.57,2026-01-15
+1049,Julia Roberts,Webcam 1080p,1614.95,2026-05-16
+1050,Alice Smith,Desk Pad,300.2,2026-01-18
