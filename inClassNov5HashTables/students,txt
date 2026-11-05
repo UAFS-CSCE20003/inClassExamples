@@ -1,0 +1,151 @@
+studentID,firstName,lastName,email,major
+S1001,Madison,Davis,madison.davis1@university.edu,Computer Science
+S1002,John,Moore,john.moore2@university.edu,Data Science
+S1003,Harper,Rodriguez,harper.rodriguez3@university.edu,Cybersecurity
+S1004,Isabella,Baker,isabella.baker4@university.edu,Cybersecurity
+S1005,Aria,Garcia,aria.garcia5@university.edu,Computer Engineering
+S1006,Jackson,Williams,jackson.williams6@university.edu,Computer Science
+S1007,Ethan,Wilson,ethan.wilson7@university.edu,Data Science
+S1008,Camila,Hill,camila.hill8@university.edu,Computer Science
+S1009,Samuel,Gonzalez,samuel.gonzalez9@university.edu,Cybersecurity
+S1010,Carter,Hall,carter.hall10@university.edu,Computer Engineering
+S1011,Ella,Anderson,ella.anderson11@university.edu,Information Technology
+S1012,David,Moore,david.moore12@university.edu,Electrical Engineering
+S1013,Emma,Carter,emma.carter13@university.edu,Electrical Engineering
+S1014,Charlotte,Hall,charlotte.hall14@university.edu,Information Technology
+S1015,Elijah,Moore,elijah.moore15@university.edu,Data Science
+S1016,James,Carter,james.carter16@university.edu,Software Engineering
+S1017,Isabella,Garcia,isabella.garcia17@university.edu,Information Technology
+S1018,Isabella,Thompson,isabella.thompson18@university.edu,Electrical Engineering
+S1019,Elizabeth,Hill,elizabeth.hill19@university.edu,Software Engineering
+S1020,Sophia,Campbell,sophia.campbell20@university.edu,Information Technology
+S1021,Aria,Davis,aria.davis21@university.edu,Information Technology
+S1022,Ethan,Scott,ethan.scott22@university.edu,Software Engineering
+S1023,Madison,Flores,madison.flores23@university.edu,Electrical Engineering
+S1024,Daniel,Torres,daniel.torres24@university.edu,Data Science
+S1025,Wyatt,Jones,wyatt.jones25@university.edu,Computer Science
+S1026,Luna,Anderson,luna.anderson26@university.edu,Electrical Engineering
+S1027,Abigail,Garcia,abigail.garcia27@university.edu,Electrical Engineering
+S1028,Harper,Miller,harper.miller28@university.edu,Information Technology
+S1029,William,Robinson,william.robinson29@university.edu,Cybersecurity
+S1030,Daniel,Hernandez,daniel.hernandez30@university.edu,Software Engineering
+S1031,Elizabeth,Wilson,elizabeth.wilson31@university.edu,Cybersecurity
+S1032,William,Hall,william.hall32@university.edu,Cybersecurity
+S1033,Carter,Jones,carter.jones33@university.edu,Computer Engineering
+S1034,Madison,Hernandez,madison.hernandez34@university.edu,Computer Engineering
+S1035,Chloe,Thomas,chloe.thomas35@university.edu,Data Science
+S1036,Sebastian,Harris,sebastian.harris36@university.edu,Software Engineering
+S1037,Madison,Hall,madison.hall37@university.edu,Computer Engineering
+S1038,Harper,Baker,harper.baker38@university.edu,Software Engineering
+S1039,Jack,Roberts,jack.roberts39@university.edu,Computer Science
+S1040,Harper,Williams,harper.williams40@university.edu,Electrical Engineering
+S1041,Emily,Sanchez,emily.sanchez41@university.edu,Software Engineering
+S1042,Ava,Wilson,ava.wilson42@university.edu,Computer Engineering
+S1043,Wyatt,Lee,wyatt.lee43@university.edu,Data Science
+S1044,Carter,Young,carter.young44@university.edu,Information Technology
+S1045,Carter,Robinson,carter.robinson45@university.edu,Data Science
+S1046,Evelyn,Rodriguez,evelyn.rodriguez46@university.edu,Data Science
+S1047,John,Scott,john.scott47@university.edu,Computer Engineering
+S1048,Evelyn,Mitchell,evelyn.mitchell48@university.edu,Computer Engineering
+S1049,Jackson,Nguyen,jackson.nguyen49@university.edu,Information Technology
+S1050,Daniel,Anderson,daniel.anderson50@university.edu,Data Science
+S1051,Camila,Young,camila.young51@university.edu,Computer Science
+S1052,Penelope,Brown,penelope.brown52@university.edu,Electrical Engineering
+S1053,Lucas,Martinez,lucas.martinez53@university.edu,Cybersecurity
+S1054,Charlotte,Baker,charlotte.baker54@university.edu,Information Technology
+S1055,Victoria,Jones,victoria.jones55@university.edu,Information Technology
+S1056,Mila,Hill,mila.hill56@university.edu,Information Technology
+S1057,Matthew,Taylor,matthew.taylor57@university.edu,Computer Engineering
+S1058,Emma,Baker,emma.baker58@university.edu,Cybersecurity
+S1059,Lucas,Baker,lucas.baker59@university.edu,Computer Engineering
+S1060,Penelope,Moore,penelope.moore60@university.edu,Electrical Engineering
+S1061,Carter,Perez,carter.perez61@university.edu,Computer Science
+S1062,Abigail,Ramirez,abigail.ramirez62@university.edu,Data Science
+S1063,Sebastian,Smith,sebastian.smith63@university.edu,Cybersecurity
+S1064,Chloe,Taylor,chloe.taylor64@university.edu,Computer Engineering
+S1065,Penelope,Lopez,penelope.lopez65@university.edu,Computer Engineering
+S1066,Isabella,Green,isabella.green66@university.edu,Software Engineering
+S1067,Madison,Allen,madison.allen67@university.edu,Computer Engineering
+S1068,Amelia,Martinez,amelia.martinez68@university.edu,Software Engineering
+S1069,Penelope,Hernandez,penelope.hernandez69@university.edu,Computer Engineering
+S1070,Jack,King,jack.king70@university.edu,Computer Science
+S1071,Victoria,Lee,victoria.lee71@university.edu,Information Technology
+S1072,Liam,Davis,liam.davis72@university.edu,Software Engineering
+S1073,Michael,Thomas,michael.thomas73@university.edu,Computer Science
+S1074,Alexander,Torres,alexander.torres74@university.edu,Computer Science
+S1075,Ethan,Campbell,ethan.campbell75@university.edu,Information Technology
+S1076,Ava,Carter,ava.carter76@university.edu,Computer Engineering
+S1077,Jack,Rodriguez,jack.rodriguez77@university.edu,Data Science
+S1078,Luna,Walker,luna.walker78@university.edu,Computer Engineering
+S1079,Charlotte,Taylor,charlotte.taylor79@university.edu,Computer Engineering
+S1080,Victoria,Ramirez,victoria.ramirez80@university.edu,Data Science
+S1081,Aria,Carter,aria.carter81@university.edu,Cybersecurity
+S1082,Grace,Gonzalez,grace.gonzalez82@university.edu,Cybersecurity
+S1083,Michael,Sanchez,michael.sanchez83@university.edu,Cybersecurity
+S1084,Carter,White,carter.white84@university.edu,Information Technology
+S1085,Matthew,Lewis,matthew.lewis85@university.edu,Computer Science
+S1086,Alexander,Anderson,alexander.anderson86@university.edu,Computer Science
+S1087,Elijah,Johnson,elijah.johnson87@university.edu,Computer Engineering
+S1088,Samuel,Anderson,samuel.anderson88@university.edu,Computer Engineering
+S1089,Harper,Smith,harper.smith89@university.edu,Computer Science
+S1090,Wyatt,Green,wyatt.green90@university.edu,Computer Science
+S1091,Harper,Jones,harper.jones91@university.edu,Computer Science
+S1092,Elijah,Jones,elijah.jones92@university.edu,Computer Engineering
+S1093,Alexander,Moore,alexander.moore93@university.edu,Cybersecurity
+S1094,Aiden,Wilson,aiden.wilson94@university.edu,Computer Engineering
+S1095,Mia,Campbell,mia.campbell95@university.edu,Computer Engineering
+S1096,Scarlett,Walker,scarlett.walker96@university.edu,Data Science
+S1097,Sofia,Clark,sofia.clark97@university.edu,Data Science
+S1098,Isabella,Miller,isabella.miller98@university.edu,Cybersecurity
+S1099,Jackson,Thompson,jackson.thompson99@university.edu,Information Technology
+S1100,Ella,Robinson,ella.robinson100@university.edu,Electrical Engineering
+S1101,Chloe,Brown,chloe.brown101@university.edu,Cybersecurity
+S1102,Carter,Adams,carter.adams102@university.edu,Computer Science
+S1103,Noah,Sanchez,noah.sanchez103@university.edu,Cybersecurity
+S1104,Elijah,Miller,elijah.miller104@university.edu,Data Science
+S1105,Amelia,Gonzalez,amelia.gonzalez105@university.edu,Computer Engineering
+S1106,Avery,Rodriguez,avery.rodriguez106@university.edu,Information Technology
+S1107,Benjamin,Moore,benjamin.moore107@university.edu,Information Technology
+S1108,Alexander,Jones,alexander.jones108@university.edu,Information Technology
+S1109,Samuel,Miller,samuel.miller109@university.edu,Computer Science
+S1110,Carter,Wright,carter.wright110@university.edu,Electrical Engineering
+S1111,Emma,Garcia,emma.garcia111@university.edu,Electrical Engineering
+S1112,Alexander,Hernandez,alexander.hernandez112@university.edu,Information Technology
+S1113,Aiden,Walker,aiden.walker113@university.edu,Data Science
+S1114,Henry,Brown,henry.brown114@university.edu,Data Science
+S1115,Mila,Smith,mila.smith115@university.edu,Information Technology
+S1116,Evelyn,Robinson,evelyn.robinson116@university.edu,Software Engineering
+S1117,Jackson,Hall,jackson.hall117@university.edu,Cybersecurity
+S1118,Samuel,Nelson,samuel.nelson118@university.edu,Cybersecurity
+S1119,Aiden,Martinez,aiden.martinez119@university.edu,Data Science
+S1120,Abigail,Wilson,abigail.wilson120@university.edu,Computer Science
+S1121,David,Mitchell,david.mitchell121@university.edu,Computer Engineering
+S1122,Noah,Mitchell,noah.mitchell122@university.edu,Software Engineering
+S1123,Noah,Brown,noah.brown123@university.edu,Computer Engineering
+S1124,Sofia,Allen,sofia.allen124@university.edu,Electrical Engineering
+S1125,Matthew,Hernandez,matthew.hernandez125@university.edu,Computer Science
+S1126,Camila,Garcia,camila.garcia126@university.edu,Electrical Engineering
+S1127,Benjamin,Jones,benjamin.jones127@university.edu,Computer Engineering
+S1128,Ava,Baker,ava.baker128@university.edu,Electrical Engineering
+S1129,Alexander,Sanchez,alexander.sanchez129@university.edu,Computer Science
+S1130,Scarlett,Thomas,scarlett.thomas130@university.edu,Computer Engineering
+S1131,Victoria,Williams,victoria.williams131@university.edu,Computer Engineering
+S1132,Ethan,Clark,ethan.clark132@university.edu,Cybersecurity
+S1133,David,Torres,david.torres133@university.edu,Computer Engineering
+S1134,Emily,Taylor,emily.taylor134@university.edu,Data Science
+S1135,Luna,Rivera,luna.rivera135@university.edu,Software Engineering
+S1136,Alexander,Taylor,alexander.taylor136@university.edu,Information Technology
+S1137,Mia,Nelson,mia.nelson137@university.edu,Cybersecurity
+S1138,Michael,Robinson,michael.robinson138@university.edu,Software Engineering
+S1139,Penelope,Jones,penelope.jones139@university.edu,Computer Science
+S1140,Sebastian,Flores,sebastian.flores140@university.edu,Computer Engineering
+S1141,Isabella,Jones,isabella.jones141@university.edu,Computer Engineering
+S1142,James,Allen,james.allen142@university.edu,Software Engineering
+S1143,Mia,Thompson,mia.thompson143@university.edu,Computer Science
+S1144,Alexander,White,alexander.white144@university.edu,Software Engineering
+S1145,Charlotte,Lewis,charlotte.lewis145@university.edu,Electrical Engineering
+S1146,Aria,Rivera,aria.rivera146@university.edu,Software Engineering
+S1147,Joseph,Adams,joseph.adams147@university.edu,Computer Engineering
+S1148,Emma,Nelson,emma.nelson148@university.edu,Electrical Engineering
+S1149,Samuel,Martin,samuel.martin149@university.edu,Cybersecurity
+S1150,Isabella,Rodriguez,isabella.rodriguez150@university.edu,Software Engineering
